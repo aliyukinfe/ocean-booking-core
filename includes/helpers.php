@@ -20,6 +20,8 @@ function obc_get_event_fields() {
 		'start_time'           => array( 'label' => __( 'Start time', 'ocean-booking' ), 'type' => 'text' ),
 		'return_time'          => array( 'label' => __( 'Return time', 'ocean-booking' ), 'type' => 'text' ),
 		'price_from'           => array( 'label' => __( 'Price from', 'ocean-booking' ), 'type' => 'number' ),
+		'event_rating'         => array( 'label' => __( 'Rating', 'ocean-booking' ), 'type' => 'text' ),
+		'availability'         => array( 'label' => __( 'Availability', 'ocean-booking' ), 'type' => 'text' ),
 		'ticket_types'         => array( 'label' => __( 'Ticket types', 'ocean-booking' ), 'type' => 'textarea' ),
 		'included_features'    => array( 'label' => __( 'Included features', 'ocean-booking' ), 'type' => 'textarea' ),
 		'itinerary_timeline'   => array( 'label' => __( 'Itinerary timeline', 'ocean-booking' ), 'type' => 'textarea' ),

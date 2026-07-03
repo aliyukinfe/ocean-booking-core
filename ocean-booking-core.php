@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Ocean Booking Core
  * Description: Event, guide, booking integration, SEO schema, and contact features for the Ocean Booking theme.
- * Version: 1.0.0
+ * Version: 1.1.0
  * Author: Ocean Booking
  * Text Domain: ocean-booking
  * Domain Path: /languages
@@ -14,7 +14,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'OBC_VERSION', '1.0.0' );
+define( 'OBC_VERSION', '1.1.0' );
 define( 'OBC_PATH', plugin_dir_path( __FILE__ ) );
 define( 'OBC_URL', plugin_dir_url( __FILE__ ) );
 
