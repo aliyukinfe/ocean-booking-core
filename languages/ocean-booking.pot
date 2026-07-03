@@ -1,0 +1,23 @@
+# Copyright (C) 2026 Ocean Booking
+# This file is distributed under the same license as the Ocean Booking Core plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ocean Booking 1.0.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Manual starter POT\n"
+"X-Domain: ocean-booking\n"
+
+msgid "Events"
+msgstr ""
+
+msgid "Guides"
+msgstr ""
+
+msgid "Book now"
+msgstr ""
+
+msgid "Send message"
+msgstr ""
+
