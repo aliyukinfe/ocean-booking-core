@@ -14,6 +14,7 @@ function obc_get_event_fields() {
 		'short_description'    => array( 'label' => __( 'Short description', 'ocean-booking' ), 'type' => 'textarea' ),
 		'location'             => array( 'label' => __( 'Location', 'ocean-booking' ), 'type' => 'text' ),
 		'meeting_point'        => array( 'label' => __( 'Meeting point', 'ocean-booking' ), 'type' => 'text' ),
+		'event_date'           => array( 'label' => __( 'Event date', 'ocean-booking' ), 'type' => 'date' ),
 		'duration'             => array( 'label' => __( 'Duration', 'ocean-booking' ), 'type' => 'text' ),
 		'check_in_time'        => array( 'label' => __( 'Check-in time', 'ocean-booking' ), 'type' => 'text' ),
 		'start_time'           => array( 'label' => __( 'Start time', 'ocean-booking' ), 'type' => 'text' ),
@@ -70,4 +71,3 @@ function obc_allowed_iframe_html() {
 		),
 	);
 }
-
